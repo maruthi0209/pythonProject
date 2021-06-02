@@ -1,0 +1,48 @@
+2021-05-31 15:44:31,443 :DEBUG : PythonTests.test_Logging : A debug statement is executed
+2021-05-31 15:44:31,443 :INFO : PythonTests.test_Logging : A information statement
+2021-05-31 15:44:31,443 :WARNING : PythonTests.test_Logging : Something is wrong here
+2021-05-31 15:44:31,443 :ERROR : PythonTests.test_Logging : An error has occured
+2021-05-31 15:44:31,443 :CRITICAL : PythonTests.test_Logging : Critical issue
+2021-05-31 16:14:18,462 :DEBUG : PythonTests.BaseClass : A debug statement is executed
+2021-05-31 16:14:18,462 :INFO : PythonTests.BaseClass : A information statement
+2021-05-31 16:14:18,462 :WARNING : PythonTests.BaseClass : Something is wrong here
+2021-05-31 16:14:18,463 :ERROR : PythonTests.BaseClass : An error has occured
+2021-05-31 16:14:18,463 :CRITICAL : PythonTests.BaseClass : Critical issue
+2021-05-31 16:14:18,465 :DEBUG : PythonTests.BaseClass : A debug statement is executed
+2021-05-31 16:14:18,465 :DEBUG : PythonTests.BaseClass : A debug statement is executed
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : A information statement
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : A information statement
+2021-05-31 16:14:18,466 :WARNING : PythonTests.BaseClass : Something is wrong here
+2021-05-31 16:14:18,466 :WARNING : PythonTests.BaseClass : Something is wrong here
+2021-05-31 16:14:18,466 :ERROR : PythonTests.BaseClass : An error has occured
+2021-05-31 16:14:18,466 :ERROR : PythonTests.BaseClass : An error has occured
+2021-05-31 16:14:18,466 :CRITICAL : PythonTests.BaseClass : Critical issue
+2021-05-31 16:14:18,466 :CRITICAL : PythonTests.BaseClass : Critical issue
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : Rahul
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : Rahul
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : rahulshettyacademy.com
+2021-05-31 16:14:18,466 :INFO : PythonTests.BaseClass : rahulshettyacademy.com
+2021-05-31 16:15:44,334 :INFO : PythonTests.BaseClass : Rahul
+2021-05-31 16:15:44,334 :INFO : PythonTests.BaseClass : Rahul
+2021-05-31 16:15:44,335 :INFO : PythonTests.BaseClass : rahulshettyacademy.com
+2021-05-31 16:15:44,335 :INFO : PythonTests.BaseClass : rahulshettyacademy.com
+2021-05-31 16:18:14,277 :INFO : test_editProfile : Rahul
+2021-05-31 16:18:14,277 :INFO : test_editProfile : rahulshettyacademy.com
+2021-05-31 16:19:09,278 :INFO : test_editProfile : Rahul
+2021-05-31 16:19:09,278 :INFO : test_editProfile : rahulshettyacademy.com
+2021-05-31 16:19:09,280 :DEBUG : PythonTests.test_Logging : A debug statement is executed
+2021-05-31 16:19:09,281 :INFO : PythonTests.test_Logging : A information statement
+2021-05-31 16:19:09,281 :WARNING : PythonTests.test_Logging : Something is wrong here
+2021-05-31 16:19:09,281 :ERROR : PythonTests.test_Logging : An error has occured
+2021-05-31 16:19:09,281 :CRITICAL : PythonTests.test_Logging : Critical issue
+2021-05-31 16:21:10,659 :INFO : test_editProfile : Rahul
+2021-05-31 16:21:10,660 :INFO : test_editProfile : rahulshettyacademy.com
+2021-05-31 16:21:49,631 :INFO : test_editProfile : Rahul
+2021-05-31 16:21:49,631 :INFO : test_editProfile : rahulshettyacademy.com
+2021-05-31 16:21:49,633 :DEBUG : PythonTests.test_Logging : A debug statement is executed
+2021-05-31 16:21:49,633 :INFO : PythonTests.test_Logging : A information statement
+2021-05-31 16:21:49,633 :WARNING : PythonTests.test_Logging : Something is wrong here
+2021-05-31 16:21:49,634 :ERROR : PythonTests.test_Logging : An error has occured
+2021-05-31 16:21:49,634 :CRITICAL : PythonTests.test_Logging : Critical issue
+2021-05-31 16:23:18,175 :INFO : test_editProfile : Rahul
+2021-05-31 16:23:18,175 :INFO : test_editProfile : rahulshettyacademy.com
